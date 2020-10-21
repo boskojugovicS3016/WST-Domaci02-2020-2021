@@ -1,0 +1,56 @@
+table {
+    margin: 0px;
+    padding: 0px;
+    border: 2px solid green;
+    border-collapse: collapse;
+}
+th {
+    margin: 0px;
+    padding: 0px;
+    border: 2px solid green;
+    border-collapse: collapse;
+}
+
+td {
+    margin: 0px;
+    padding: 0px;
+    border: 2px solid green;
+    border-collapse: collapse;
+}
+
+#drugi_red {
+    background-color: lightgreen;
+    color: red;
+}
+
+#ime {
+    text-align: center;
+    background-color: lightblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#prezime {
+    text-align: right;
+    background-color: yellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#jmbg {
+    text-align: left;
+    background-color: lightgreen;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+form {
+
+    border: solid green;
+    margin: 0 auto;
+    width: 500px;
+    padding: 10px 0px;   
+    text-align: center;
+         
+}
+input {
+    margin: 10px;
+    
+}
